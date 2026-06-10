@@ -1,2 +1,2 @@
-# Led_Light_data_tracking_V1
+# Led_Light_data_tracking
 This is my first ever ardunio project
